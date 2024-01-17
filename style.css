@@ -1,0 +1,49 @@
+*{
+
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+
+
+}
+
+.logo{
+    width: 90px;
+}
+.nav-item{
+    padding: 5px;
+    font-size: 15px;
+}
+.nav-item :hover{
+    background-color: rgb(150, 121, 246);
+    border-radius: 6px;
+}
+.navbar{
+    position: absolute;
+    opacity: 07;
+}
+.img{
+    width: 300px;
+}
+#Ast-vedica{
+    height: 100%;
+        
+
+}
+.titulo{
+color: white;
+font-size: 28px;
+margin-top: 70px;
+font-family: 'Cinzel', serif;
+font-family: 'Comfortaa', sans-serif;
+font-family: 'Cormorant Garamond', serif;
+font-weight: bold;
+
+}
+.text-AV{
+    margin-top: 20px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
