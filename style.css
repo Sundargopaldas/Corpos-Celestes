@@ -3,8 +3,6 @@
 box-sizing: border-box;
 margin: 0;
 padding: 0;
-
-
 }
 
 .logo{
@@ -15,13 +13,10 @@ padding: 0;
     font-size: 15px;
 }
 .nav-item :hover{
-    background-color: rgb(150, 121, 246);
+    background-color: rgb(42, 6, 133);
     border-radius: 6px;
 }
-.navbar{
-    position: absolute;
-    opacity: 07;
-}
+
 .img{
     width: 300px;
 }
@@ -30,9 +25,9 @@ padding: 0;
         
 
 }
-.titulo{
+.titulo-AV,.titulo-AK,.titulo-Quir{
 color: white;
-font-size: 28px;
+font-size: 25px;
 margin-top: 70px;
 font-family: 'Cinzel', serif;
 font-family: 'Comfortaa', sans-serif;
@@ -40,10 +35,25 @@ font-family: 'Cormorant Garamond', serif;
 font-weight: bold;
 
 }
-.text-AV{
+.text-AV,.text-AK,.text-Quir{
     margin-top: 20px;
     color: white;
     font-size: 20px;
     font-weight: bold;
     
+}
+
+.carousel-inner{
+    margin-top: 85px;
+}
+.frase{
+    position: absolute;
+    margin-top: -400px;
+    color: white;
+    margin-left: 30px;
+    font-size: 20px;
+    font-family: 'Cinzel', serif;
+font-family: 'Comfortaa', sans-serif;
+font-family: 'Cormorant Garamond', serif;
+font-weight: bold;
 }
