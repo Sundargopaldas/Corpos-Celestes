@@ -37,9 +37,10 @@ font-weight: bold;
 .text-AV,.text-AK,.text-Quir{
     margin-top: 20px;
     color: white;
-    font-size: 20px;
-    font-weight: bold;   
-}
+    font-size: 23px;
+    font-family: 'DM Serif Display', serif;
+    
+} 
 
 .carousel-inner{
     margin-top: 85px;
@@ -66,7 +67,7 @@ font-weight: bold;
     width: 400px;
     height: 60px;
     margin-top: 160px;
-    margin-left: 600px;
+    margin-left: 574px;
     
     
 }
@@ -87,16 +88,16 @@ title{
 }
 .btn{
     margin-top: 100px;
-    margin-left: 250px;
+    margin-left: 230px;
 }
-@media (max-width: 1024px) {
+@media (min-width:768px)and (max-width: 1024px) {
 
 .logo-redes{
-    margin-left: 220px;
+    margin-left: 250px;
 }
 
 .btn{
-    margin-left: 50px;
+    margin-left: 90px;
 }
 
 }
@@ -105,12 +106,12 @@ title{
 @media (max-width: 450px) {
 
 .logo-redes{
-margin-left: 60px;
+margin-left: 45px;
 
 }
 
 .btn{
-    margin-left: -20px;
+    margin-left: 18px;
 }
 
     
